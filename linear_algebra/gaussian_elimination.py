@@ -10,10 +10,10 @@ from numpy.typing import NDArray
 
 
 def retroactive_resolution(
-    coefficients: NDArray[float64], vector: NDArray[float64]
+    coefficients: NDArray[float64], vector: NDArray[float64] 
 ) -> NDArray[float64]:
     """
-    This function performs a retroactive linear system resolution
+    This function  performs a retroactive linear system resolution
     for triangular matrix
 
     Examples:
