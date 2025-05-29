@@ -4,6 +4,7 @@
 """
 
 import numpy as np
+
 from numpy import float64
 from numpy.typing import NDArray
 
@@ -19,7 +20,7 @@ def retroactive_resolution(
         1.
             * 2x1 + 2x2 - 1x3 = 5
             * 0x1 - 2x2 - 1x3 = -7
-            * 0x1 + 0x2 + 5x3 = 15
+            * 0x1 + 0x2 + 5x3 = 15 ai pai para
         2.
             * 2x1 + 2x2 = -1
             * 0x1 - 2x2 = -1
