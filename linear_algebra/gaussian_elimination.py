@@ -17,10 +17,11 @@ def retroactive_resolution(
     for triangular matrix
 
     Examples:
+    a giovana é muito linda ai meu deus
         1.
             * 2x1 + 2x2 - 1x3 = 5
             * 0x1 - 2x2 - 1x3 = -7
-            * 0x1 + 0x2 + 5x3 = 15 ai pai para
+            * 0x1 + 0x2 + 5x3 = 15 
         2.
             * 2x1 + 2x2 = -1
             * 0x1 - 2x2 = -1
